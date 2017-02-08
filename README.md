@@ -27,10 +27,19 @@ Following completion of these Pre-work assignments, you should:
  - Have a terminal with a Git compatible prompt
  - Be able to receive a valid response when typing "git --version"
 
-##### 3. Download and Install Slack
+##### 3. Download and Install Ryver
 
-We use Slack to distribute files and collaborate before, during, and after the workshop.
+We use an app called Ryver to share resources, chat, and collaborate before, during, and after the workshop. 
+You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app:
 
-  - <a href="https://slack.com/downloads" target="_blank">Download Slack</a>
+[Ryver Downloads](ryver.com/downloads/).
 
-Look for an email from us prior to the workshop, in order to join our Slack team.
+Prior to Code 101, you’ll get an email from us to join the Code 101 channel. (You won't be able to join prior to being invited)
+
+
+##### 4. Prerequisite Work. 
+
+Please complete the first three HTML sections of Codecademy HMTL/CSS:
+
+https://www.codecademy.com/en/tracks/web
+
