@@ -32,7 +32,7 @@ Following completion of these Pre-work assignments, you should:
 We use an app called Ryver to share resources, chat, and collaborate before, during, and after the workshop. 
 You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app:
 
-[Ryver Downloads](ryver.com/downloads/).
+[Ryver Downloads](http://ryver.com/downloads/).
 
 Prior to Code 101, you’ll get an email from us to join the Code 101 channel. (You won't be able to join prior to being invited)
 
