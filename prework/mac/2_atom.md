@@ -12,7 +12,7 @@ Once installed, launch using Spotlight Search (`CMD + SpaceBar`).
 
 You'll find it insanely useful to open files and directories into VS Code from the Terminal.
 
-Run VS Code, the type `CMD + P` and start typing `Shell Command` and choose `Shell Command: Install code Commandin Path`.
+Run VS Code, the type `CMD + SHIFT + P` and start typing `Shell Command` and choose `Shell Command: Install code Commandin Path`.
 
 To verify VS Code is wired up correctly, run the `code` command from your terminal.
 
