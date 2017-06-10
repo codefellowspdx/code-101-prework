@@ -3,13 +3,15 @@ Code 101: Intro to Software Development & Careers in Tech
 
 Welcome to Code 101!
 
-The very first thing you need to do is setup your computer. This means you will need to download and install all the tools necessary to write code. These guides may contain a lot of terms that you are unfamiliar with. Bear with us, follow along, and see if you can set up your computer so that you're fully ready to start Code 101. 
+First thing's first: Let's get your computer set up. 
 
-**If you encounter any problems with these guides, please come in early at 8 AM so that we can help you setup your computer.**
+In order to write code on your computer, you need to download and install some new tools. The below guides may contain terms you've never heard of, but you should still be able to follow along and get your computer set up so you're all ready to start Code 101 at 9:00AM.
+
+**If you have trouble doing so, don't fret! Just arrive to Code 101 early at 8:00 AM, so we can help you get set up.**
 
 ### Pre-work
 
-##### 1. Ensure your laptop up to the task of coding
+##### 1. Ensure your laptop is in good shape and is up to the task of coding.
 
   - Is virus and malware free
   - Uses the latest, stable, updated version of its operating system
@@ -29,12 +31,12 @@ Following completion of these Pre-work assignments, you should:
 
 ##### 3. Download and Install Ryver
 
-We use an app called Ryver to share resources, chat, and collaborate before, during, and after the workshop. 
-You can either use the Ryver web app (codefellowspdx.ryver.com) or use the following link to download the installable app:
+We use a messaging app called Ryver to share resources, chat, and collaborate before, during, and after the workshop. 
+You can either use the app in your browser (codefellowspdx.ryver.com) or use the following link to download the installable app:
 
 [Ryver Downloads](http://ryver.com/downloads/).
 
-Prior to Code 101, you’ll get an email from us to join the Code 101 channel. (You won't be able to join prior to being invited)
+Prior to Code 101, you’ll get an email from us to join the Code 101 team in Ryver. (You won't be able to join prior to being invited).
 
 
 ##### 4. Prerequisite Work. 
